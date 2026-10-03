@@ -1,16 +1,18 @@
-## Hi there 👋
+Hey, I'm Shree !
 
-<!--
-**ShreeGattani/ShreeGattani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate at Shiv Nadar University, passionate about building software, solving problems, and turning ideas into real-world applications.
 
-Here are some ideas to get you started:
+My interests lie in Full Stack Development, Backend Engineering, Cloud Computing, and AI/ML. I enjoy exploring new technologies, experimenting with ideas, and building things that make an impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm diving deeper into AWS, Blockchain, and scalable software systems, while constantly learning and building along the way.
+
+- B.Tech CSE '28 | Shiv Nadar University
+- AWS Student Builder Group Leader @ SNU
+- Building with Full Stack & Backend Technologies
+- Exploring Cloud, AI/ML & Blockchain
+
+Turning curiosity into code and ideas into reality.
+
+Let's connect!
+
+https://www.linkedin.com/in/shree-gattani-bbb196324/
